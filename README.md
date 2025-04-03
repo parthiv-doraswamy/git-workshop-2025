@@ -2,9 +2,9 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: </li>
-  <li> Roll Number: </li>
-  <li> Branch: </li>
+  <li> Name:Doraswamy Parthiv </li>
+  <li> Roll Number:1601-24-733-104 </li>
+  <li> Branch:Cse </li>
 </ul>
 </details>
 <details>
